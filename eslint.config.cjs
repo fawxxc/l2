@@ -22,7 +22,7 @@ module.exports = [
 
     rules: {
       '@typescript-eslint/no-explicit-any': 'warn',
-      'no-unused-vars': 'warn',
+      'no-unused-vars': 'off',
     },
   },
 ];
